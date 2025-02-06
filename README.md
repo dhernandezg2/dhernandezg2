@@ -3,6 +3,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kumar+One&size=30&pause=1000&color=5609F7&background=FF776F00&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%F0%9F%91%8B;Im+Diego+%F0%9F%98%8E" alt="Typing SVG" /></a>
 
 
+<div align="center">
+    <img src="https://minimalistic-wallpaper.demolab.com/?random=1" /><br/>
+</div>
+
+
 
 <details open> 
   <summary><h2>📘Mis principales proyectos</h2></summary>
@@ -36,7 +41,7 @@
   <a href="#"><img alt="TypeGraphQL" src="https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=plastic"></a>
 </p>
 
-<h3>🗄️ Databases and Cloud Hosting</h3>
+<h3>🗄️ bases de datos y Cloud Hosting</h3>
 
 <p>
   <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
@@ -47,7 +52,7 @@
   <a href="#"><img alt="Cisco" src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black"></a>
 </p>
 
- <h3>💻 Software and Tools</h3>
+ <h3>💻 Software y herramientas</h3>
 
 <p>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
