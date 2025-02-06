@@ -4,22 +4,22 @@
 
 
 <div align="center">
-    <img src="https://minimalistic-wallpaper.demolab.com/?random=1" /><br/>
+    <img src="https://minimalistic-wallpaper.demolab.com/?random=1"/>
 </div>
 
 
 
 <details open> 
-  <summary><h2>📘Mis principales proyectos</h2></summary>
+  <summary><h2>📘𝙈𝙄𝙎 𝙋𝙍𝙄𝙉𝘾𝙄𝙋𝘼𝙇𝙀𝙎 𝙋𝙍𝙊𝙔𝙀𝘾𝙏𝙊</h2></summary>
 </details>
 
 
 
 
 <details> 
-  <summary><h2>🛠️ Mis principales herramientas de trabajo</h2></summary>
+  <summary><h2>🛠️ 𝙈𝙞𝙨 𝙥𝙧𝙞𝙣𝙘𝙞𝙥𝙖𝙡𝙚𝙨 𝙝𝙚𝙧𝙧𝙖𝙢𝙞𝙚𝙣𝙩𝙖𝙨 𝙙𝙚 𝙩𝙧𝙖𝙗𝙖𝙟𝙤</h2></summary>
 
-   <h3>👨‍💻 Lenguajes de programación</h3>
+   <h3>👨‍💻 𝓛𝓔𝓝𝓖𝓤𝓐𝓙𝓔𝓢 𝓓𝓔 𝓟𝓡𝓞𝓖𝓡𝓐𝓜𝓐𝓒𝓘ó𝓝</h3>
 
   <p>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
@@ -32,7 +32,7 @@
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
   </p>
 
-  <h3>🧰 Frameworks and Libraries</h3>
+  <h3>🧰𝓕𝓻𝓪𝓶𝓮𝔀𝓸𝓻𝓴𝓼 𝔂 𝓵𝓲𝓫𝓻𝓮𝓻𝓲𝓪𝓼 </h3>
 
 <p>
   <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
@@ -41,7 +41,7 @@
   <a href="#"><img alt="TypeGraphQL" src="https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=plastic"></a>
 </p>
 
-<h3>🗄️ bases de datos y Cloud Hosting</h3>
+<h3>🗄️ 𝓫𝓪𝓼𝓮𝓼 𝓭𝓮 𝓭𝓪𝓽𝓸𝓼 𝔂 𝓒𝓵𝓸𝓾𝓭 𝓗𝓸𝓼𝓽𝓲𝓷𝓰</h3>
 
 <p>
   <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
@@ -52,7 +52,7 @@
   <a href="#"><img alt="Cisco" src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black"></a>
 </p>
 
- <h3>💻 Software y herramientas</h3>
+ <h3>💻 𝓢𝓸𝓯𝓽𝔀𝓪𝓻𝓮 𝔂 𝓱𝓮𝓻𝓻𝓪𝓶𝓲𝓮𝓷𝓽𝓪𝓼</h3>
 
 <p>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
