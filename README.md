@@ -3,12 +3,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kumar+One&size=30&pause=1000&color=5609F7&background=FF776F00&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%F0%9F%91%8B;Im+Diego+%F0%9F%98%8E" alt="Typing SVG" /></a>
 
 
-<div align="center">
-    <img src="https://minimalistic-wallpaper.demolab.com/?random=1"/>
-</div>
-
-
-
 <details open> 
   <summary><h2>📘𝑴𝑰𝑺 𝑷𝑹𝑰𝑵𝑪𝑰𝑷𝑨𝑳𝑬𝑺 𝑷𝑹𝑶𝒀𝑬𝑪𝑻𝑶𝑺</h2></summary>
 </details>
@@ -70,7 +64,9 @@
 
 </details>
 
-# 📊Estadisticas de GitHub:
+
+<details> 
+<summary><h2>📊Estadísticas de GitHub</h2></summary>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=dhernandezg2&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true" />
 </div>
