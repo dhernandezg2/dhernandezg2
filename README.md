@@ -5,6 +5,7 @@
 
 <details open> 
   <summary><h2>📘𝑴𝑰𝑺 𝑷𝑹𝑰𝑵𝑪𝑰𝑷𝑨𝑳𝑬𝑺 𝑷𝑹𝑶𝒀𝑬𝑪𝑻𝑶𝑺</h2></summary>
+  <a href="https://github.com/amingom/TarTradia"></a>
 </details>
 
 
