@@ -74,9 +74,9 @@
 <details> 
   <summary><h2>📊 Estadísticas de GitHub</h2></summary>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=dhernandezg2&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
-  </div>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhernandezg2&theme=tokyonight&hide_border=false&layout=compact" />
-  </div>
+    <img src="https://github-readme-stats.vercel.app/api?username=dhernandezg2&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true" />
+</div>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhernandezg2&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</div>
 </details>
