@@ -12,8 +12,6 @@
   <summary><h2>📘 Mis principales proyectos</h2></summary>
 <ul align="left">
   <li>🔹 <a href="https://github.com/amingom/TarTradia"><b>TarTradia</b></a> – Breve descripción del proyecto</li>
-  <li>🔹 <a href="#"><b>Otro Proyecto</b></a> – Breve descripción del proyecto</li>
-  <li>🔹 <a href="#"><b>Otro más</b></a> – Breve descripción del proyecto</li>
 </ul>
 </details>
 
@@ -32,6 +30,7 @@
     <img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF.svg?logo=scratch&logoColor=white"/>
     <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"/>
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"/>
+     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white">
   </p>
 
   <h3>📚 Frameworks y librerías</h3>
