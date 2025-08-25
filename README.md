@@ -11,7 +11,7 @@
 <details open> 
   <summary><h2>📘 Mis principales proyectos</h2></summary>
 <ul align="left">
-  <li>🔹 <a href="https://github.com/amingom/TarTradia"><b>TarTradia</b></a> – Breve descripción del proyecto</li>
+  <li>🔹 <a href="https://github.com/amingom/TarTradia"><b>TarTradia</b></a></li>
 </ul>
 </details>
 
