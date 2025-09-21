@@ -11,8 +11,9 @@
 <details open> 
   <summary><h2>📘 Mis principales proyectos</h2></summary>
 <ul align="left">
-  <li>🔹 <a href="https://github.com/amingom/TarTradia"><b>TarTradia</b></a></li>
-   <li>🔹 <a href="https://github.com/amingom/Juego-SnakeChallenge"><b>Snake Challenge</b></a></li>
+  🔹 <a href="https://github.com/amingom/TarTradia"><b>TarTradia</b></a>
+  </br>
+  🔹 <a href="https://github.com/amingom/Juego-SnakeChallenge"><b>Snake Challenge</b></a>
 </ul>
 </details>
 
